@@ -1,0 +1,37 @@
+[
+  {
+    "product_name": "Men's Slim Fit Jeans",
+    "product_price": "49.99",
+    "product_details": "Comfortable slim-fit jeans made from stretchable denim, available in dark blue and black.",
+    "product_img": "https://i.ibb.co.com/NYxhBnx/pant.webp",
+    "is_available": true
+  },
+  {
+    "product_name": "Women's Summer Dress",
+    "product_price": "39.99",
+    "product_details": "Floral printed, sleeveless summer dress made from lightweight cotton fabric, perfect for casual outings.",
+    "product_img": "https://i.ibb.co.com/jZwYHkH/azsxdcfvg.jpg",
+    "is_available": true
+  },
+  {
+    "product_name": "Unisex Hoodie",
+    "product_price": "29.99",
+    "product_details": "Soft, fleece-lined unisex hoodie with front pocket and adjustable drawstring, available in multiple colors.",
+    "product_img": "https://i.ibb.co.com/1KM4gdC/unisex-premium-hoodie-white-front-63e1c2478e0f8.webp",
+    "is_available": false
+  },
+  {
+    "product_name": "Men's Leather Jacket",
+    "product_price": "149.99",
+    "product_details": "Classic men's leather jacket with zip closure, two front pockets, and a comfortable inner lining.",
+    "product_img": "https://i.ibb.co.com/095QyTY/91-F9-Y-6-SWFL-AC-SL1500.jpg",
+    "is_available": true
+  },
+  {
+    "product_name": "Women's High Heels",
+    "product_price": "59.99",
+    "product_details": "Elegant women's high heels with a 4-inch heel height, perfect for formal events or parties.",
+    "product_img": "https://i.ibb.co.com/FVV7WSx/1bc855efb0a140d98c14099be67ca738.jpg",
+    "is_available": true
+  }
+]
